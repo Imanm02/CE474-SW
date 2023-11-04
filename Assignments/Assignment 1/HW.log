@@ -1037,7 +1037,7 @@ as'XB Niloofar' on input line 101.
 \symnew@mathbf@font@digits=\mathgroup7
 \symnew@mathit@font@digits=\mathgroup8
 \symnew@mathrm@font@digits=\mathgroup9
-(./HW.aux)
+No file HW.aux.
 \openout1 = `HW.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 124.
@@ -1054,7 +1054,6 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 124.
 LaTeX Font Info:    ... okay on input line 124.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 124.
 LaTeX Font Info:    ... okay on input line 124.
-
 *geometry* detected driver: xetex
 *geometry* verbose mode - [ preamble ] result:
 * driver: xetex
@@ -1265,8 +1264,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 170--170
 
 [9] (./HW.aux) ) 
 Here is how much of TeX's memory you used:
- 20325 strings out of 492922
- 401976 string characters out of 6136751
+ 20323 strings out of 492922
+ 401962 string characters out of 6136751
  550253 words of memory out of 5000000
  24034 multiletter control sequences out of 15000+600000
  535850 words of font info for 69 fonts, out of 8000000 for 9000
