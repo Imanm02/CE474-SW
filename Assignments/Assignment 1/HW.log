@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/W32TeX) (preloaded format=xelatex 2022.12.8)  4 NOV 2023 12:57
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/W32TeX) (preloaded format=xelatex 2022.12.8)  4 NOV 2023 13:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1265,7 +1265,10 @@ Overfull \hbox (12.12605pt too wide) in paragraph at lines 113--115
 هماهنگی‌های اداری می‌شود. در این فاز باید دستورالعمل‌های[]
  []
 
-[10])
+[10]
+File: pic1.png Graphic file (type bmp)
+<pic1.png>
+)
 Overfull \hbox (1.95313pt too wide) in paragraph at lines 170--170
 [][]  [][]
  []
@@ -1275,12 +1278,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 170--170
 [][]
  []
 
-[11] (./HW.aux) ) 
+[11] (./HW.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
 Here is how much of TeX's memory you used:
- 20325 strings out of 492922
- 401976 string characters out of 6136751
+ 20332 strings out of 492922
+ 402040 string characters out of 6136751
  551253 words of memory out of 5000000
- 24034 multiletter control sequences out of 15000+600000
+ 24038 multiletter control sequences out of 15000+600000
  535850 words of font info for 69 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  60i,11n,69p,2343b,446s stack positions out of 5000i,500n,10000p,200000b,80000s
