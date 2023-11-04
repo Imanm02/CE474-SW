@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/W32TeX) (preloaded format=xelatex 2022.12.8)  4 NOV 2023 12:39
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/W32TeX) (preloaded format=xelatex 2022.12.8)  4 NOV 2023 12:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1259,7 +1259,13 @@ Overfull \hbox (1.18747pt too wide) in paragraph at lines 74--75
 ی مانند آبشاری یا حلزونی معمولاً دستورالعمل‌های مشخص و جزئی برای پیاده‌سازی[]
  []
 
-[9])
+[9]
+Overfull \hbox (12.12605pt too wide) in paragraph at lines 113--115
+[]\TU/XBNiloofar(0)/m/n/12 جذب حامی مالی، تبلیغات و برندینگ، خط زمانی رویداد و 
+هماهنگی‌های اداری می‌شود. در این فاز باید دستورالعمل‌های[]
+ []
+
+)
 Overfull \hbox (1.95313pt too wide) in paragraph at lines 170--170
 [][]  [][]
  []
@@ -1269,7 +1275,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 170--170
 [][]
  []
 
-[10] (./HW.aux) ) 
+[10] [11] (./HW.aux) ) 
 Here is how much of TeX's memory you used:
  20325 strings out of 492922
  401976 string characters out of 6136751
@@ -1279,4 +1285,4 @@ Here is how much of TeX's memory you used:
  1348 hyphenation exceptions out of 8191
  60i,11n,69p,2343b,446s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on HW.pdf (10 pages).
+Output written on HW.pdf (11 pages).
