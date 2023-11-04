@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/W32TeX) (preloaded format=xelatex 2022.12.8)  4 NOV 2023 13:14
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/W32TeX) (preloaded format=xelatex 2022.12.8)  4 NOV 2023 13:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1278,46 +1278,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 170--170
 [][]
  []
 
-
-! LaTeX Error: \begin{itemize} on input line 196 ended by \end{description}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.173 \end{description}
-                       
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: \begin{description} on input line 126 ended by \end{document}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.174 \end{document}
-                    
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
 [13] (./HW.aux)
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
- )
-(\end occurred inside a group at level 1)
-
-### semi simple group (level 1) entered at line 126 (\begingroup)
-### bottom level 
+ ) 
 Here is how much of TeX's memory you used:
- 20331 strings out of 492922
- 402013 string characters out of 6136751
+ 20332 strings out of 492922
+ 402040 string characters out of 6136751
  551253 words of memory out of 5000000
- 24037 multiletter control sequences out of 15000+600000
+ 24038 multiletter control sequences out of 15000+600000
  535850 words of font info for 69 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  60i,11n,69p,2343b,446s stack positions out of 5000i,500n,10000p,200000b,80000s
