@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.11.6)  30 NOV 2023 12:41
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.11.6)  30 NOV 2023 12:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1095,11 +1095,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 136--136
 (q2.tex
 LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/b/n' will be
 (Font)              scaled to size 17.28pt on input line 1.
- [1
-
-])
+)
 Overfull \hbox (1.95313pt too wide) in paragraph at lines 142--142
-[][]  [][]
+[]  [][]
  []
 
 
@@ -1107,7 +1105,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 142--142
 [][]
  []
 
-(q3.tex [2])
+(q3.tex [1
+
+])
 Overfull \hbox (1.95313pt too wide) in paragraph at lines 148--148
 [][]  [][]
  []
@@ -1117,7 +1117,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 148--148
 [][]
  []
 
-(q4.tex)
+(q4.tex) [2]
 Overfull \hbox (1.95313pt too wide) in paragraph at lines 154--154
 [][]  [][]
  []
@@ -1127,7 +1127,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 154--154
 [][]
  []
 
-(q5.tex [3] [4] [5])
+(q5.tex [3] [4]) [5]
 Overfull \hbox (1.95313pt too wide) in paragraph at lines 160--160
 [][]  [][]
  []
@@ -1137,25 +1137,24 @@ Underfull \hbox (badness 10000) in paragraph at lines 160--160
 [][]
  []
 
-(q6.tex [6] [7]
+(q6.tex [6]
 Overfull \hbox (1.19333pt too wide) in paragraph at lines 65--66
 [][]\TU/XBNiloofar(0)/b/n/12 جامعیت پایین‌تر: \TU/XBNiloofar(0)/m/n/12 مدل‌هایی
  مانند آبشاری یا حلزونی معمولاً دستورالعمل‌های مشخص و جزئی برای پیاده‌سازی[]
  []
 
-[8]
+[7] [8]
 Overfull \hbox (12.12605pt too wide) in paragraph at lines 104--106
 []\TU/XBNiloofar(0)/m/n/12 جذب حامی مالی، تبلیغات و برندینگ، خط زمانی رویداد و 
 هماهنگی‌های اداری می‌شود. در این فاز باید دستورالعمل‌های[]
  []
 
-[9]
 File: pic1.png Graphic file (type bmp)
 <pic1.png>
- [10] [11]
+[9] [10]
 LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/m/n' will be
 (Font)              scaled to size 12.0pt on input line 200.
- [12]) [13]
+ [11] [12])
 Overfull \hbox (1.95313pt too wide) in paragraph at lines 166--166
 [][]  [][]
  []
@@ -1165,19 +1164,23 @@ Underfull \hbox (badness 10000) in paragraph at lines 166--166
 [][]
  []
 
-[14] (HW.aux)
+[13] (HW.aux)
  ***********
 LaTeX2e <2023-11-01>
 L3 programming layer <2023-11-01>
  ***********
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
  12454 strings out of 409722
  249764 string characters out of 5780279
- 1932164 words of memory out of 5000000
+ 1931164 words of memory out of 5000000
  34148 multiletter control sequences out of 15000+600000
  561621 words of font info for 86 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  86i,11n,99p,2401b,375s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on HW.pdf (14 pages).
+Output written on HW.pdf (13 pages).
