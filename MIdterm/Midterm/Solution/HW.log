@@ -908,7 +908,7 @@ Package xepersian-mathdigitspec Info: DefiningthedefaultPersianmathdigitsfontas
 \symnew@mathbf@font@digits=\mathgroup7
 \symnew@mathit@font@digits=\mathgroup8
 \symnew@mathrm@font@digits=\mathgroup9
-No file HW.aux.
+(HW.aux)
 \openout1 = `HW.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 124.
@@ -922,7 +922,7 @@ LaTeX Font Info:    ... okay on input line 124.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 124.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 1
 24.
-(C:\Program Files\MiKTeX\tex/latex/base\ts1cmr.fd
+ (C:\Program Files\MiKTeX\tex/latex/base\ts1cmr.fd
 File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 124.
@@ -1032,16 +1032,16 @@ LaTeX Font Info:    Font shape `TU/XBNiloofar(0)/b/n' will be
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.125 \makeHead{۱۳ آبان}
-                        
+l.125 \makeHead{۹ آذر}
+                      
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 ! Missing } inserted.
 <inserted text> 
                 }
-l.125 \makeHead{۱۳ آبان}
-                        
+l.125 \makeHead{۹ آذر}
+                      
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
 With luck, this will get me unwedged. But if you
@@ -1051,8 +1051,8 @@ my insertion and my current dilemma will both disappear.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.125 \makeHead{۱۳ آبان}
-                        
+l.125 \makeHead{۹ آذر}
+                      
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
 With luck, this will get me unwedged. But if you
@@ -1062,8 +1062,8 @@ my insertion and my current dilemma will both disappear.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.125 \makeHead{۱۳ آبان}
-                        
+l.125 \makeHead{۹ آذر}
+                      
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
 With luck, this will get me unwedged. But if you
@@ -1179,16 +1179,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 170--170
 LaTeX2e <2023-11-01>
 L3 programming layer <2023-11-01>
  ***********
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  ) 
 Here is how much of TeX's memory you used:
- 12462 strings out of 409722
- 249937 string characters out of 5780279
+ 12465 strings out of 409722
+ 249968 string characters out of 5780279
  1932164 words of memory out of 5000000
- 34155 multiletter control sequences out of 15000+600000
+ 34156 multiletter control sequences out of 15000+600000
  561621 words of font info for 86 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  86i,11n,99p,2401b,387s stack positions out of 10000i,1000n,20000p,200000b,200000s
