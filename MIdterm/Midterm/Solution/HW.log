@@ -1165,10 +1165,10 @@ L3 programming layer <2023-11-01>
 Here is how much of TeX's memory you used:
  12441 strings out of 409722
  249575 string characters out of 5780279
- 1929164 words of memory out of 5000000
+ 1928164 words of memory out of 5000000
  34137 multiletter control sequences out of 15000+600000
  561621 words of font info for 86 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 86i,11n,99p,2401b,331s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 86i,11n,99p,2401b,352s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on HW.pdf (6 pages).
