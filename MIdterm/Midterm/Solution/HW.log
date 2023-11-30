@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.11.6)  30 NOV 2023 12:52
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.11.6)  30 NOV 2023 12:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1137,27 +1137,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 160--160
 [][]
  []
 
-(q6.tex [3] [4]
-Overfull \hbox (1.19333pt too wide) in paragraph at lines 65--66
-[][]\TU/XBNiloofar(0)/b/n/12 جامعیت پایین‌تر: \TU/XBNiloofar(0)/m/n/12 مدل‌هایی
- مانند آبشاری یا حلزونی معمولاً دستورالعمل‌های مشخص و جزئی برای پیاده‌سازی[]
- []
-
-[5]
-Overfull \hbox (12.12605pt too wide) in paragraph at lines 104--106
-[]\TU/XBNiloofar(0)/m/n/12 جذب حامی مالی، تبلیغات و برندینگ، خط زمانی رویداد و 
-هماهنگی‌های اداری می‌شود. در این فاز باید دستورالعمل‌های[]
- []
-
-[6]
-File: pic1.png Graphic file (type bmp)
-<pic1.png>
- [7] [8]
-LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/m/n' will be
-(Font)              scaled to size 12.0pt on input line 200.
- [9] [10])
+(q6.tex)
 Overfull \hbox (1.95313pt too wide) in paragraph at lines 166--166
-[][]  [][]
+[]  [][]
  []
 
 
@@ -1165,23 +1147,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 166--166
 [][]
  []
 
-[11] (HW.aux)
+[3] [4] (HW.aux)
  ***********
 LaTeX2e <2023-11-01>
 L3 programming layer <2023-11-01>
  ***********
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  ) 
 Here is how much of TeX's memory you used:
- 12452 strings out of 409722
- 249669 string characters out of 5780279
- 1932164 words of memory out of 5000000
- 34147 multiletter control sequences out of 15000+600000
- 561613 words of font info for 85 fonts, out of 8000000 for 9000
+ 12433 strings out of 409722
+ 249220 string characters out of 5780279
+ 1925164 words of memory out of 5000000
+ 34132 multiletter control sequences out of 15000+600000
+ 561597 words of font info for 83 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 86i,11n,99p,2401b,375s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 86i,11n,99p,2401b,331s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on HW.pdf (11 pages).
+Output written on HW.pdf (4 pages).
