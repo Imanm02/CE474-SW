@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.11.6)  30 NOV 2023 13:25
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.11.6)  30 NOV 2023 13:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1107,7 +1107,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 142--142
 [][]
  []
 
-(q3.tex) [2]
+(q3.tex
+Overfull \hbox (2.85587pt too wide) in paragraph at lines 8--10
+[]\TU/XBNiloofar(0)/m/n/12 Prototyping به شناسایی و تصحیح نیازمندی‌های کاربران 
+و مشتریان کمک می‌کند، به ویژه زمانی که این نیازمندی‌ها[]
+ []
+
+) [2]
 Overfull \hbox (1.95313pt too wide) in paragraph at lines 148--148
 [][]  [][]
  []
