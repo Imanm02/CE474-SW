@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.11.6)  30 NOV 2023 12:36
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.11.6)  30 NOV 2023 12:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1076,76 +1076,63 @@ my insertion and my current dilemma will both disappear.
  []
 
 LaTeX Font Info:    Font shape `TU/XBNiloofar(0)/b/n' will be
-(Font)              scaled to size 12.0pt on input line 132.
-(names.tex
+(Font)              scaled to size 12.0pt on input line 134.
+(q1.tex
 LaTeX Font Info:    Font shape `TU/XBNiloofar(0)/m/n' will be
 (Font)              scaled to size 17.28pt on input line 1.
 LaTeX Font Info:    Font shape `TU/XBNiloofar(0)/b/n' will be
 (Font)              scaled to size 17.28pt on input line 1.
-LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/m/n' will be
-(Font)              scaled to size 12.0pt on input line 3.
-)
-Overfull \hbox (1.95313pt too wide) in paragraph at lines 134--134
-[][]  [][]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 134--134
-[][]
- []
-
-(q1.tex
 LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/b/n' will be
 (Font)              scaled to size 17.28pt on input line 1.
-) [1
-
-]
-Overfull \hbox (1.95313pt too wide) in paragraph at lines 140--140
+)
+Overfull \hbox (1.95313pt too wide) in paragraph at lines 136--136
 [][]  [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 140--140
+Underfull \hbox (badness 10000) in paragraph at lines 136--136
 [][]
  []
 
-(q2.tex) [2]
-Overfull \hbox (1.95313pt too wide) in paragraph at lines 146--146
+(q2.tex [1
+
+])
+Overfull \hbox (1.95313pt too wide) in paragraph at lines 142--142
 [][]  [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 146--146
+Underfull \hbox (badness 10000) in paragraph at lines 142--142
 [][]
  []
 
-(q3.tex)
-Overfull \hbox (1.95313pt too wide) in paragraph at lines 152--152
+(q3.tex [2])
+Overfull \hbox (1.95313pt too wide) in paragraph at lines 148--148
 [][]  [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 152--152
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
 [][]
  []
 
 (q4.tex [3])
-Overfull \hbox (1.95313pt too wide) in paragraph at lines 158--158
+Overfull \hbox (1.95313pt too wide) in paragraph at lines 154--154
 [][]  [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 158--158
+Underfull \hbox (badness 10000) in paragraph at lines 154--154
 [][]
  []
 
 (q5.tex [4] [5] [6])
-Overfull \hbox (1.95313pt too wide) in paragraph at lines 164--164
+Overfull \hbox (1.95313pt too wide) in paragraph at lines 160--160
 [][]  [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 164--164
+Underfull \hbox (badness 10000) in paragraph at lines 160--160
 [][]
  []
 
@@ -1161,32 +1148,37 @@ Overfull \hbox (12.12605pt too wide) in paragraph at lines 104--106
 هماهنگی‌های اداری می‌شود. در این فاز باید دستورالعمل‌های[]
  []
 
-[10]
 File: pic1.png Graphic file (type bmp)
 <pic1.png>
- [11] [12] [13]) [14]
-Overfull \hbox (1.95313pt too wide) in paragraph at lines 170--170
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[10] [11]
+LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/m/n' will be
+(Font)              scaled to size 12.0pt on input line 200.
+ [12] [13])
+Overfull \hbox (1.95313pt too wide) in paragraph at lines 166--166
 [][]  [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 170--170
+Underfull \hbox (badness 10000) in paragraph at lines 166--166
 [][]
  []
 
-[15] (HW.aux)
+[14] (HW.aux)
  ***********
 LaTeX2e <2023-11-01>
 L3 programming layer <2023-11-01>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 12465 strings out of 409722
- 249968 string characters out of 5780279
- 1932164 words of memory out of 5000000
- 34156 multiletter control sequences out of 15000+600000
+ 12458 strings out of 409722
+ 249872 string characters out of 5780279
+ 1933164 words of memory out of 5000000
+ 34152 multiletter control sequences out of 15000+600000
  561621 words of font info for 86 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 86i,11n,99p,2401b,387s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 86i,11n,99p,2401b,377s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on HW.pdf (15 pages).
+Output written on HW.pdf (14 pages).
