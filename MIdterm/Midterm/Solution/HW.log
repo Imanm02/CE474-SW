@@ -1136,17 +1136,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 154--154
 (q5.tex [3]
 LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/m/n' will be
 (Font)              scaled to size 12.0pt on input line 10.
-
-Underfull \hbox (badness 10000) in paragraph at lines 18--20
-[][]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 25--28
-[][]
- []
-
-[4])
+ [4])
 Overfull \hbox (1.95313pt too wide) in paragraph at lines 160--160
 [][]  [][]
  []
@@ -1179,6 +1169,6 @@ Here is how much of TeX's memory you used:
  34137 multiletter control sequences out of 15000+600000
  561621 words of font info for 86 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 86i,11n,99p,2401b,372s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 86i,11n,99p,2401b,374s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on HW.pdf (6 pages).
