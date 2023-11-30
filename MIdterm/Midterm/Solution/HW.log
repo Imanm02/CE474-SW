@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.11.6)  30 NOV 2023 14:00
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.11.6)  30 NOV 2023 14:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1159,7 +1159,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 160--160
 [][]
  []
 
-(q6.tex [5] [6])
+(q6.tex [5] [6] [7])
 Overfull \hbox (1.95313pt too wide) in paragraph at lines 166--166
 [][]  [][]
  []
@@ -1169,7 +1169,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 166--166
 [][]
  []
 
-[7] (HW.aux)
+[8] (HW.aux)
  ***********
 LaTeX2e <2023-11-01>
 L3 programming layer <2023-11-01>
@@ -1184,4 +1184,4 @@ Here is how much of TeX's memory you used:
  1348 hyphenation exceptions out of 8191
  86i,11n,99p,2401b,379s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on HW.pdf (7 pages).
+Output written on HW.pdf (8 pages).
