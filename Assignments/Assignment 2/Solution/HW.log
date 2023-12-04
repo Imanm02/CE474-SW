@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.11.6)  4 DEC 2023 19:58
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.11.6)  4 DEC 2023 20:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1097,11 +1097,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 134--134
 (q1.tex
 LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/b/n' will be
 (Font)              scaled to size 17.28pt on input line 1.
- [1
-
-])
+)
 Overfull \hbox (1.95313pt too wide) in paragraph at lines 140--140
-[][]  [][]
+[]  [][]
  []
 
 
@@ -1109,7 +1107,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 140--140
 [][]
  []
 
-(q2.tex [2])
+(q2.tex [1
+
+])
 Overfull \hbox (1.95313pt too wide) in paragraph at lines 146--146
 [][]  [][]
  []
@@ -1119,9 +1119,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 146--146
 [][]
  []
 
-(q3.tex)
+(q3.tex [2])
 Overfull \hbox (1.95313pt too wide) in paragraph at lines 152--152
-[]  [][]
+[][]  [][]
  []
 
 
@@ -1129,7 +1129,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 152--152
 [][]
  []
 
-(q4.tex) [3]
+(q4.tex [3])
 Overfull \hbox (1.95313pt too wide) in paragraph at lines 158--158
 [][]  [][]
  []
@@ -1139,7 +1139,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 158--158
 [][]
  []
 
-(q5.tex [4] [5]) [6]
+(q5.tex [4] [5] [6])
 Overfull \hbox (1.95313pt too wide) in paragraph at lines 164--164
 [][]  [][]
  []
@@ -1161,7 +1161,7 @@ Overfull \hbox (12.12605pt too wide) in paragraph at lines 104--106
 هماهنگی‌های اداری می‌شود. در این فاز باید دستورالعمل‌های[]
  []
 
-[10] [11] [12])
+[10] [11] [12]) [13]
 Overfull \hbox (1.95313pt too wide) in paragraph at lines 170--170
 [][]  [][]
  []
@@ -1171,7 +1171,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 170--170
 [][]
  []
 
-[13] [14] (HW.aux)
+[14] (HW.aux)
  ***********
 LaTeX2e <2023-11-01>
 L3 programming layer <2023-11-01>
