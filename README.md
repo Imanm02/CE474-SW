@@ -3,7 +3,7 @@ Solutions to Dr. Rivadeh's CE474: Software Engineering (Sharif University of Tec
 
 ## Overview
 
-This repository contains solutions to the assignments, course slides, and other useful resources for the CE474: Software Engineering course at Sharif University of Technology, Fall 2023, taught by Dr. Rivadeh.
+This repository contains solutions to the assignments and exams, course slides, and other useful resources for the CE474: Software Engineering course at Sharif University of Technology, Fall 2023, taught by Dr. Rivadeh.
 
 ## Table of Contents
 
