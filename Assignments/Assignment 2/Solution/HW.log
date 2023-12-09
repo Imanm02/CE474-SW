@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.11.6)  9 DEC 2023 06:37
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.11.6)  9 DEC 2023 06:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1110,7 +1110,7 @@ File: pic3.png Graphic file (type bmp)
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) [7] (q5.tex) [8] (q6.tex) [9] [10] (HW.aux)
+) [7] (q5.tex) [8] (q6.tex) [9] (HW.aux)
  ***********
 LaTeX2e <2023-11-01>
 L3 programming layer <2023-11-01>
@@ -1129,4 +1129,4 @@ Here is how much of TeX's memory you used:
  1348 hyphenation exceptions out of 8191
  86i,11n,99p,2401b,385s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on HW.pdf (10 pages).
+Output written on HW.pdf (9 pages).
