@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.11.6)  9 DEC 2023 10:09
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.11.6)  9 DEC 2023 10:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1160,7 +1160,7 @@ File: pic10.png Graphic file (type bmp)
 File: pic11.png Graphic file (type bmp)
 <pic11.png>
 
-Overfull \hbox (18.1769pt too wide) in paragraph at lines 118--120
+Overfull \hbox (18.1769pt too wide) in paragraph at lines 119--121
  [][][][][][] 
  []
 
@@ -1170,7 +1170,7 @@ Overfull \vbox (1.83612pt too high) has occurred while \output is active []
 
 [19]
 
-! LaTeX Error: \begin{itemize} on input line 107 ended by \end{description}.
+! LaTeX Error: \begin{itemize} on input line 108 ended by \end{description}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
