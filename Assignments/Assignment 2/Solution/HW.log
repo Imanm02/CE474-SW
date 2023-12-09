@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.11.6)  9 DEC 2023 09:29
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.11.6)  9 DEC 2023 09:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1057,16 +1057,16 @@ LaTeX Font Info:    Font shape `TU/XBNiloofar(0)/b/n' will be
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.125 \makeHead{۱۳ آبان}
-                        
+l.125 \makeHead{۱۸ آذر}
+                       
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 ! Missing } inserted.
 <inserted text> 
                 }
-l.125 \makeHead{۱۳ آبان}
-                        
+l.125 \makeHead{۱۸ آذر}
+                       
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
 With luck, this will get me unwedged. But if you
@@ -1076,8 +1076,8 @@ my insertion and my current dilemma will both disappear.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.125 \makeHead{۱۳ آبان}
-                        
+l.125 \makeHead{۱۸ آذر}
+                       
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
 With luck, this will get me unwedged. But if you
@@ -1087,8 +1087,8 @@ my insertion and my current dilemma will both disappear.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.125 \makeHead{۱۳ آبان}
-                        
+l.125 \makeHead{۱۸ آذر}
+                       
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
 With luck, this will get me unwedged. But if you
