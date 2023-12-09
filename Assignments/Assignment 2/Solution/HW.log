@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.11.6)  9 DEC 2023 07:59
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.11.6)  9 DEC 2023 08:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -930,6 +930,9 @@ LaTeX Warning: Label `fig:label4' multiply defined.
 
 LaTeX Warning: Label `fig:label4' multiply defined.
 
+
+LaTeX Warning: Label `fig:label4' multiply defined.
+
 )
 \openout1 = `HW.aux'.
 
@@ -1131,12 +1134,7 @@ File: pic8.png Graphic file (type bmp)
  [10]
 File: pic9.png Graphic file (type bmp)
 <pic9.png>
-
-Overfull \hbox (168.15565pt too wide) in paragraph at lines 62--64
- [][][][][][] 
- []
-
-[11]
+ [11]
 File: pic7.png Graphic file (type bmp)
 <pic7.png>
 
@@ -1144,13 +1142,12 @@ Overfull \hbox (0.55292pt too wide) in paragraph at lines 79--81
  [][][][][][] 
  []
 
-[12]
 File: pic6.jpg Graphic file (type bmp)
 <pic6.jpg>
- [13] [14]
+[12] [13]
 File: pic5.png Graphic file (type bmp)
 <pic5.png>
- [15]) [16] (q6.tex) [17] (HW.aux)
+ [14]) [15] (q6.tex) [16] (HW.aux)
  ***********
 LaTeX2e <2023-11-01>
 L3 programming layer <2023-11-01>
@@ -1169,4 +1166,4 @@ Here is how much of TeX's memory you used:
  1348 hyphenation exceptions out of 8191
  86i,11n,99p,2401b,383s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on HW.pdf (17 pages).
+Output written on HW.pdf (16 pages).
