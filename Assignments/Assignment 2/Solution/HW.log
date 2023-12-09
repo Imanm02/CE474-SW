@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.11.6)  9 DEC 2023 07:52
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.11.6)  9 DEC 2023 07:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1132,17 +1132,17 @@ File: pic8.png Graphic file (type bmp)
 File: pic7.png Graphic file (type bmp)
 <pic7.png>
 
-Overfull \hbox (0.55292pt too wide) in paragraph at lines 54--56
+Overfull \hbox (0.55292pt too wide) in paragraph at lines 65--67
  [][][][][][] 
  []
 
 [11]
 File: pic6.jpg Graphic file (type bmp)
 <pic6.jpg>
- [12]
+ [12] [13]
 File: pic5.png Graphic file (type bmp)
 <pic5.png>
- [13]) [14] (q6.tex) [15] (HW.aux)
+ [14]) [15] (q6.tex) [16] (HW.aux)
  ***********
 LaTeX2e <2023-11-01>
 L3 programming layer <2023-11-01>
@@ -1155,10 +1155,10 @@ LaTeX Warning: There were multiply-defined labels.
 Here is how much of TeX's memory you used:
  12530 strings out of 409722
  250825 string characters out of 5780279
- 1929164 words of memory out of 5000000
+ 1928164 words of memory out of 5000000
  34213 multiletter control sequences out of 15000+600000
  561621 words of font info for 86 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  86i,11n,99p,2401b,383s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on HW.pdf (15 pages).
+Output written on HW.pdf (16 pages).
