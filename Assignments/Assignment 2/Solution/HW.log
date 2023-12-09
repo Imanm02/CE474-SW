@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.11.6)  9 DEC 2023 05:53
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.11.6)  9 DEC 2023 05:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1163,7 +1163,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 164--164
 [][]
  []
 
-(q6.tex)
+(q6.tex [6])
 Overfull \hbox (1.95313pt too wide) in paragraph at lines 170--170
 []  [][]
  []
@@ -1173,7 +1173,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 170--170
 [][]
  []
 
-[6] [7] (HW.aux)
+[7] (HW.aux)
  ***********
 LaTeX2e <2023-11-01>
 L3 programming layer <2023-11-01>
