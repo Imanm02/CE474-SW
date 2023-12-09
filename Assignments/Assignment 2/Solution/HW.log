@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.11.6)  9 DEC 2023 10:23
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.11.6)  9 DEC 2023 10:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1160,7 +1160,7 @@ File: pic10.png Graphic file (type bmp)
 File: pic11.png Graphic file (type bmp)
 <pic11.png>
 
-Overfull \hbox (18.1769pt too wide) in paragraph at lines 120--122
+Overfull \hbox (18.1769pt too wide) in paragraph at lines 126--128
  [][][][][][] 
  []
 
@@ -1168,34 +1168,7 @@ Overfull \hbox (18.1769pt too wide) in paragraph at lines 120--122
 Overfull \vbox (1.83612pt too high) has occurred while \output is active []
 
 
-[19]
-
-! LaTeX Error: \begin{itemize} on input line 109 ended by \end{description}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.171 \end{description}
-                       
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: \begin{description} on input line 126 ended by \end{document}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.172 \end{document}
-                    
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-[20] (HW.aux)
+[19] [20] (HW.aux)
  ***********
 LaTeX2e <2023-11-01>
 L3 programming layer <2023-11-01>
@@ -1204,18 +1177,14 @@ L3 programming layer <2023-11-01>
 
 LaTeX Warning: There were multiply-defined labels.
 
- )
-(\end occurred inside a group at level 1)
-
-### semi simple group (level 1) entered at line 126 (\begingroup)
-### bottom level 
+ ) 
 Here is how much of TeX's memory you used:
- 12556 strings out of 409722
- 251176 string characters out of 5780279
+ 12557 strings out of 409722
+ 251203 string characters out of 5780279
  1928164 words of memory out of 5000000
- 34236 multiletter control sequences out of 15000+600000
+ 34237 multiletter control sequences out of 15000+600000
  561621 words of font info for 86 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 86i,11n,99p,2401b,482s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 86i,11n,99p,2401b,387s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on HW.pdf (20 pages).
