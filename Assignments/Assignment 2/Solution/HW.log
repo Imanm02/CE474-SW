@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.11.6)  9 DEC 2023 07:02
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.11.6)  9 DEC 2023 07:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1113,7 +1113,93 @@ File: pic3.png Graphic file (type bmp)
 [7]
 File: pic4.png Graphic file (type bmp)
 <pic4.png>
- [8]) [9] (q5.tex) [10] (q6.tex) [11] (HW.aux)
+ [8]) [9] (q5.tex [10]
+LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/m/n' will be
+(Font)              scaled to size 8.0pt on input line 75.
+LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/m/n' will be
+(Font)              scaled to size 6.0pt on input line 75.
+LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/bx/n' in size <12> not availab
+le
+(Font)              Font shape `TU/XBNiloofar(1)/b/n' tried instead on input li
+ne 75.
+LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/b/n' will be
+(Font)              scaled to size 12.0pt on input line 75.
+LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/bx/n' in size <8> not availabl
+e
+(Font)              Font shape `TU/XBNiloofar(1)/b/n' tried instead on input li
+ne 75.
+LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/b/n' will be
+(Font)              scaled to size 8.0pt on input line 75.
+LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/bx/n' in size <6> not availabl
+e
+(Font)              Font shape `TU/XBNiloofar(1)/b/n' tried instead on input li
+ne 75.
+LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/b/n' will be
+(Font)              scaled to size 6.0pt on input line 75.
+LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/m/it' will be
+(Font)              scaled to size 12.0pt on input line 75.
+LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/m/it' will be
+(Font)              scaled to size 8.0pt on input line 75.
+LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/m/it' will be
+(Font)              scaled to size 6.0pt on input line 75.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.84 \end{tabular}
+                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.84 \end{tabular}
+                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.84 \end{tabular}
+                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.84 \end{tabular}
+                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+\endL or \endR problem (1 missing, 0 extra) detected at line 84
+[]$[]$[]
+ []
+
+)
+Overfull \hbox (529.19919pt too wide) in paragraph at lines 75--163
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--163
+[][]
+ []
+
+[11] (q6.tex) [12] (HW.aux)
  ***********
 LaTeX2e <2023-11-01>
 L3 programming layer <2023-11-01>
@@ -1124,12 +1210,12 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 12490 strings out of 409722
- 250154 string characters out of 5780279
- 1928164 words of memory out of 5000000
- 34179 multiletter control sequences out of 15000+600000
- 561605 words of font info for 84 fonts, out of 8000000 for 9000
+ 12534 strings out of 409722
+ 251263 string characters out of 5780279
+ 1930164 words of memory out of 5000000
+ 34208 multiletter control sequences out of 15000+600000
+ 566314 words of font info for 110 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  86i,11n,99p,2401b,383s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on HW.pdf (11 pages).
+Output written on HW.pdf (12 pages).
