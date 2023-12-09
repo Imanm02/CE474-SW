@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.11.6)  9 DEC 2023 07:12
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.11.6)  9 DEC 2023 07:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1189,17 +1189,63 @@ my insertion and my current dilemma will both disappear.
 []$[]$[]
  []
 
-)
-Overfull \hbox (529.19919pt too wide) in paragraph at lines 78--163
-[][][]
+
+Overfull \hbox (529.19919pt too wide) in paragraph at lines 78--88
+[][] []
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.100 \end{tabular}
+                   
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.100 \end{tabular}
+                   
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.100 \end{tabular}
+                   
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.100 \end{tabular}
+                   
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+\endL or \endR problem (1 missing, 0 extra) detected at line 100
+[]$[]$[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 78--163
-[][]
+Overfull \hbox (345.85779pt too wide) in paragraph at lines 89--101
+[][][] []
  []
 
-[11] (q6.tex) [12] (HW.aux)
+) [11] (q6.tex) [12] (HW.aux)
  ***********
 LaTeX2e <2023-11-01>
 L3 programming layer <2023-11-01>
@@ -1212,7 +1258,7 @@ LaTeX Warning: There were multiply-defined labels.
 Here is how much of TeX's memory you used:
  12536 strings out of 409722
  251359 string characters out of 5780279
- 1931164 words of memory out of 5000000
+ 1935164 words of memory out of 5000000
  34209 multiletter control sequences out of 15000+600000
  566322 words of font info for 111 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
