@@ -18,6 +18,10 @@ This repository contains solutions to the assignments and exams, course slides, 
 
 In the "Assignments" folder, you will find the solutions to the three theoretical assignments given during the course.
 
+## Exams
+
+In the "Exams" folder, you will find the solutions to the two midterm exams we were given during the course.
+
 ## Slides
 
 The "Slides" folder contains the course slides used by Dr. Rivadeh during the lectures.
