@@ -9,6 +9,7 @@ This repository contains solutions to the assignments and exams, course slides, 
 
 - [Overview](#overview)
 - [Assignments](#assignments)
+- [Exams](#exams)
 - [Slides](#slides)
 - [Source](#source)
 - [Maintainer](#Maintainer)
