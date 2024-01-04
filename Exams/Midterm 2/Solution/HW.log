@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.11.6)  4 JAN 2024 13:10
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.11.6)  4 JAN 2024 13:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1099,7 +1099,13 @@ LaTeX Font Info:    Font shape `TU/XBNiloofar(0)/m/it' will be
 (Font)              scaled to size 12.0pt on input line 17.
  [1
 
-])
+]
+Overfull \hbox (10.35349pt too wide) in paragraph at lines 21--22
+[][]\TU/XBNiloofar(0)/m/it/12 تطبیق‌پذیری و مقیاس‌پذیری\TU/XBNiloofar(0)/m/n/12
+ : در حالی که الگوهای معماری ممکن است در پیاده‌سازی‌های خاص محدودیت‌هایی[]
+ []
+
+)
 Overfull \hbox (1.95313pt too wide) in paragraph at lines 142--142
 [][]  [][]
  []
@@ -1119,7 +1125,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 148--148
 [][]
  []
 
-(q4.tex [2])
+[2] (q4.tex)
 Overfull \hbox (1.95313pt too wide) in paragraph at lines 154--154
 [][]  [][]
  []
@@ -1158,7 +1164,7 @@ L3 programming layer <2023-11-01>
 Here is how much of TeX's memory you used:
  12445 strings out of 409722
  249696 string characters out of 5780279
- 1930164 words of memory out of 5000000
+ 1931164 words of memory out of 5000000
  34141 multiletter control sequences out of 15000+600000
  561621 words of font info for 86 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
