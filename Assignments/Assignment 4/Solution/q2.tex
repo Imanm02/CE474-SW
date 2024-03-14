@@ -1,0 +1,32 @@
+\section*{جواب سوال ۲}
+
+\section*{عبارات منطقی معادل برنامه‌ها}
+
+\subsection*{1. انتخاب عدد میانی از بین سه عدد}
+فرض کنید سه عدد \(a\) , \(b\) , و \(c\) داریم. عدد میانی \(m\) به صورت زیر تعریف می‌شود:
+\[
+m = \begin{cases} 
+	a & \text{اگر } (a > b \land a < c) \lor (a < b \land a > c) \\
+	b & \text{اگر } (b > a \land b < c) \lor (b < a \land b > c) \\
+	c & \text{اگر } (c > a \land c < b) \lor (c < a \land c > b)
+\end{cases}
+\]
+
+\subsection*{2. تشخیص زوج یا فرد بودن یک عدد}
+یک عدد \(n\) زوج است اگر:
+\[
+\text{زوج}(n) \Leftrightarrow n \mod 2 = 0
+\]
+و فرد است اگر:
+\[
+\text{فرد}(n) \Leftrightarrow n \mod 2 \neq 0
+\]
+
+\subsection*{3. قدر مطلق تفاضل میان دو عدد}
+قدر مطلق تفاضل دو عدد \(x\) و \(y\) به صورت زیر است:
+\[
+| x - y | = \begin{cases} 
+	x - y & \text{اگر } x > y \\
+	y - x & \text{اگر } y \geq x
+\end{cases}
+\]

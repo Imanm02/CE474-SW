@@ -1,0 +1,33 @@
+\section*{جواب سوال ۱}
+
+\subsection*{جدول درستی عبارت \(P\)}
+جدول درستی برای عبارت \(P \colon (a \land b) \lor (\neg a \land b)\) به شرح زیر است:
+
+\[
+\begin{array}{|c|c|c|}
+	\hline
+	a & b & P \\
+	\hline
+	\text{True} & \text{True} & \text{True} \\
+	\text{True} & \text{False} & \text{False} \\
+	\text{False} & \text{True} & \text{True} \\
+	\text{False} & \text{False} & \text{False} \\
+	\hline
+\end{array}
+\]
+
+\subsection*{نیازمندی های آزمون برای پوشش Predicate و Clause}
+
+\begin{itemize}
+	\item \textbf{\lr{Predicate Coverage}}:
+	\begin{itemize}
+		\item \(P\) صحیح: زمانی که \(a\) و \(b\) هر دو صحیح یا \(a\) غلط و \(b\) صحیح باشد.
+		\item \(P\) غلط: زمانی که \(a\) صحیح و \(b\) غلط باشد یا هر دو غلط باشند.
+	\end{itemize}
+	
+	\item \textbf{\lr{Clause Coverage}}:
+	\begin{itemize}
+		\item برای \(a \land b\): برآورده می‌شود زمانی که \(a\) و \(b\) هر دو صحیح باشند \lr{(True)} و زمانی که \(a\) یا \(b\) (یا هر دو) غلط باشند \lr{(False)} .
+		\item برای \(\neg a \land b\): برآورده می‌شود زمانی که \(a\) غلط و \(b\) صحیح باشد \lr{(True)} و زمانی که \(b\) غلط باشد \lr{(False)} .
+	\end{itemize}
+\end{itemize}
