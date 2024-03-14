@@ -138,21 +138,29 @@ def simple_middleware(get_response):
 ## Template Engine
 
 سیستم قالب‌بندی Django امکان ترکیب داده‌های دینامیک با HTML را فراهم می‌کند، که به توسعه‌دهندگان اجازه می‌دهد رابط کاربری پیچیده‌ای بسازند.
+
+```html
 <title>{{ title }}</title>
+```
 
 ## Signal Dispatching
+
 فریم‌ورک Django امکان استفاده از سیگنال‌ها را برای نظارت و واکنش نشان دادن به رویدادهای خاص در برنامه فراهم می‌کند، مانند تغییرات در مدل‌ها.
 
 ## Testing Framework
+
 فریم‌ورک Django شامل یک چارچوب تست کامل است که توسعه‌دهندگان را قادر می‌سازد تا به راحتی تست‌های واحد و تست‌های ادغامی برای برنامه‌های خود بنویسند.
 
 ## Internationalization and Localization
+
 فریم‌ورک Django پشتیبانی گسترده‌ای برای چندزبانگی و محلی‌سازی ارائه می‌دهد، که به توسعه‌دهندگان امکان می‌دهد برنامه‌هایی برای کاربران سراسر جهان ایجاد کنند.
 
 ## Asynchronous Support
+
 از نسخه 3.1 به بعد، Django پشتیبانی آسنکرون را ارائه می‌دهد، که به بهبود عملکرد و پاسخ‌گویی برنامه‌های وب کمک می‌کند.
 
 ## Forms
+
 فریم‌ورک Django یک سیستم فرم قدرتمند با اعتبارسنجی داده‌ها ارائه می‌دهد، که توسعه‌دهندگان را قادر می‌سازد به راحتی فرم‌های پیچیده با اعتبارسنجی سمت سرور ایجاد کنند.
 
 # موارد مربوط به React
@@ -161,9 +169,9 @@ def simple_middleware(get_response):
 
 فریم‌ورک React از JSX استفاده می‌کند، یک سینتکس شبیه HTML که اجازه می‌دهد ساختار UI به طور مستقیم در کد JavaScript نوشته شود. این رویکرد خوانایی و سهولت نوشتن کامپوننت‌ها را افزایش می‌دهد.
 
-
+```javascript
 const element = <h1>Hello, world!</h1>;
-
+```
 
 ## Component-Based Architecture
 
@@ -171,23 +179,28 @@ const element = <h1>Hello, world!</h1>;
 
 
 ## Virtual DOM
+
 فریم‌ورک React برای بهینه‌سازی عملکرد، از Virtual DOM استفاده می‌کند. این تکنیک به React اجازه می‌دهد تغییرات را به طور موثر در DOM اعمال کند.
 
 ## Data Flow
+
 فریم‌ورک React از جریان داده‌ای یک‌طرفه (Unidirectional Data Flow) استفاده می‌کند، که به مدیریت وضعیت و داده‌ها در برنامه‌های بزرگ کمک می‌کند.
 
 ## Hooks
+
 در ری‌اکت، React Hooks به توسعه‌دهندگان امکان می‌دهد تا از ویژگی‌های React مانند state و چرخه حیات، در کامپوننت‌های تابعی استفاده کنند.
 
+```javascript
 const [count, setCount] = useState(0);
+```
 
 ## Server-Side Rendering (SSR)
-فریم‌ورک React امکان رندر کردن کامپوننت‌ها در سرور را فراهم می‌کند، که به بهبود زمان بارگذاری صفحه و SEO کمک می‌کند.
 
+فریم‌ورک React امکان رندر کردن کامپوننت‌ها در سرور را فراهم می‌کند، که به بهبود زمان بارگذاری صفحه و SEO کمک می‌کند.
 
 برای اجرای SSR با React، می‌توانید از ReactDOMServer استفاده کنید. فرض کنید یک کامپوننت React به نام App دارید و می‌خواهید آن را در سرور رندر کنید:
 
-
+```javascript
 // App.js
 import React from 'react';
 function App() {
@@ -198,11 +211,11 @@ function App() {
   );
 }
 export default App;
-
+```
 
 رندر این کامپوننت در سرور، نیز بدین شکل انجام می‌شود:
 
-
+```javascript
 // server.js
 import express from 'express';
 import React from 'react';
@@ -224,15 +237,14 @@ server.get('/', (req, res) => {
 server.listen(3000, () => {
   console.log('Server is running on port 3000');
 });
-
+```
 
 ## Context API
 در ری‌اکت، React Context API امکان مدیریت حالت‌های سراسری برنامه را فراهم می‌کند، بدون نیاز به ارسال props در سلسله مراتب کامپوننت.
 
-
 فرض کنید می‌خواهید یک تم (theme) را در سراسر برنامه‌ی React خود مدیریت کنید. می‌توانید از Context API برای انتقال داده‌های تم به کامپوننت‌های فرزند بدون نیاز به prop drilling استفاده کنید:
 
-
+```javascript
 // ThemeContext.js
 import React from 'react';
 const ThemeContext = React.createContext('light');
@@ -246,11 +258,11 @@ function ThemedButton() {
   return <button style={{ background: theme === 'dark' ? '#333' : '#FFF' }}>Click Me</button>;
 }
 export default ThemedButton;
-
+```
 
 و در نهایت، می‌توانید در کامپوننت بالادست، تم را تعریف کرده و از Context Provider استفاده کنید:
 
-
+```javascript
 // App.js
 import React from 'react';
 import ThemeContext from './ThemeContext';
@@ -263,17 +275,17 @@ function App() {
   );
 }
 export default App;
-
+```
 
 در این مثال، ThemedButton از useContext برای دسترسی به مقدار فعلی تم استفاده می‌کند و دیگر نیازی به ارسال تم به عنوان یک prop از کامپوننت پدر به فرزند نیست.
 
-
 ## Fragments
+
 در ری‌اکت، React Fragments اجازه می‌دهند چندین عنصر را بدون افزودن عناصر اضافی به DOM گروه‌بندی کنید.
 
 این ویژگی برای حفظ ساختار DOM تمیز و کارآمد مفید است:
 
-
+```javascript
 import React from 'react';
 function Table() {
   return (
@@ -295,20 +307,22 @@ function Columns() {
   );
 }
 export default Table;
-
+```
 
 در این مثال، <> و </> نمادهایی برای React.Fragment هستند که به شما اجازه می‌دهند چندین عنصر را در Columns بدون نیاز به افزودن یک عنصر <div> یا هر عنصر غیرضروری دیگری به DOM، بازگردانید. این کار به حفظ ساختار منطقی و کارآمد DOM کمک می‌کند و از پیچیدگی غیرضروری جلوگیری می‌نماید.
 
 
 ## Error Boundaries
+
 همچنین React Error Boundaries به توسعه‌دهندگان امکان می‌دهد خطاهای JavaScript در کامپوننت‌های فرزند را مدیریت کنند و رفتار خطایی را نمایش دهند.
 
 ## Code Splitting
+
 فریم‌ورک React از تقسیم کد پشتیبانی می‌کند، که امکان بارگذاری بخش‌هایی از برنامه به صورت تنبل (Lazy Loading) را فراهم می‌کند، به این ترتیب کارایی برنامه را بهبود می‌بخشد.
 
-
+```javascript
 const OtherComponent = React.lazy(() => import('./OtherComponent'));
-
+```
 
 این ده مورد برای هر فریم‌ورک نشان‌دهنده تنها بخشی از قابلیت‌ها و اصول مهندسی نرم‌افزاری است که Django و React پشتیبانی می‌کنند. با استفاده از این فریم‌ورک‌ها، توسعه‌دهندگان می‌توانند برنامه‌هایی ایجاد کنند که نه تنها از نظر فنی پیشرفته هستند بلکه از لحاظ معماری نیز بر اساس بهترین شیوه‌ها و استانداردهای صنعت نرم‌افزار ساخته شده‌اند.
 
