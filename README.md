@@ -22,6 +22,10 @@ In the "Assignments" folder, you will find the solutions to the three theoretica
 
 In the "Exams" folder, you will find the solutions to the two midterm exams we were given during the course.
 
+## Research
+
+In the "Research" folder, you will find the solution to the research challenge we were given during the course.
+
 ## Slides
 
 The "Slides" folder contains the course slides used by Dr. Rivadeh during the lectures.
